@@ -44,10 +44,3 @@ Cada carpeta corresponde a una clase, y dentro se encuentra el archivo .sql con 
 📌 Estado del proyecto
 
 🟢 Activo – Se actualiza clase a clase con nuevas actividades.
-👨‍🏫 Autor
-
-MRaviolo
-GitHub: github.com/mraviolo
-📄 Licencia
-
-Uso educativo – sin licencia específica.

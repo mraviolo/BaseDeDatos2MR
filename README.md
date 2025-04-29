@@ -6,8 +6,10 @@ Las actividades consisten en consultas SQL usando la base de datos Sakila, inclu
 📚 ¿Qué es Sakila?
 
 Sakila es una base de datos de ejemplo creada por MySQL que simula el funcionamiento de un videoclub (películas, clientes, alquileres, personal, etc.). Es utilizada comúnmente para practicar consultas SQL intermedias y avanzadas.
+
 📁 Estructura del repositorio
 
+```bash
 BaseDeDatos2MR/
 ├── Clase1/
 │   └── act1.sql
@@ -16,6 +18,7 @@ BaseDeDatos2MR/
 ├── Clase3/
 │   └── act3.sql
 └── ...
+```
 
 Cada carpeta corresponde a una clase, y dentro se encuentra el archivo .sql con las actividades realizadas o asignadas en esa clase.
 🚀 ¿Cómo usar este repositorio?
